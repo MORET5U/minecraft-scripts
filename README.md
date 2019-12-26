@@ -15,4 +15,5 @@ I created this just for myself, so I don't forget how to do those things lol.
 
 ## Links
 Spigot forum post: [go to url](https://www.spigotmc.org/threads/cron-job-to-restart-servers.156728/)
+
 MinecraftForum post: [go to url](https://www.minecraftforum.net/forums/support/server-support-and/1917504-auto-restart-script-linux-bukkit-maintenance-cron)

@@ -11,6 +11,8 @@ In order to use restart script you'll need `crontab`, so your server automatical
 1. Run `crontab -e`
 2. Paste `30 3 * * * /minecraft/restart.sh > /dev/null 2>&1`
 
-### P.S.
-
 I created this just for myself, so I don't forget how to do those things lol.
+
+## Links
+Spigot forum post: [go to url](https://www.spigotmc.org/threads/cron-job-to-restart-servers.156728/)
+MinecraftForum post: [go to url](https://www.minecraftforum.net/forums/support/server-support-and/1917504-auto-restart-script-linux-bukkit-maintenance-cron)
